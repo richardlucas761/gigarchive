@@ -2,6 +2,68 @@
 
 A list of gigs I've attended (or the ones I have photos for anyway!). All venues in Nottingham unless noted otherwise. Bands in reverse order of appearance, headline acts first.
 
+## 2023
+
+| Date | Venue | Bands |
+|-----|------|------|
+|2023 0114|Chameleon|Stray Bullet, Feral State, Geval, (The band formerly known as) Alkoholokaust|
+|2023 0120|Stuck on a name|Scene Killers, Prey, Parallel States|
+|2023 0128|Chameleon|Blasphemer, Pemphigoid, Vulgore, Foul Body Autopsy|
+|2023 0129|Beat The Streets|Alt Blk Era, S.G's, Buenos Treehouse (performing Weezer's Pinkerton), Joey Collins & Ferocious Dog|
+|2023 0130|Rock City|Undeath, Celestial Sanctuary & Burial Røt|
+|2023 0211|Chameleon|Moloch, Burial Røt, Occulting Light|
+|2023 0217|Stuck on a name|Horsebastard, Charred Atlas, Nothing Clean, Pothole|
+|2023 0224|Percy Picklebackers|Hollow Bones, Knife Crime, Breacher, Skitz Wizards|
+|2023 0304|Chameleon|Godthrymm, Syncolima, Electric Priestess, Sabbat Wolf|
+|2023 0314|Rough Trade|Dub Pistols|
+|2023 0317|Rough Trade|Revenge of Calculon, Lunar Bird, Emzae, Motormouf|
+|2023 0318|Stuck on a name|Bruise Control, (formerly) The Mustard, Clayface, Breacher|
+|2023 0401|The Olde Salutation Inn|The Infernal Sea, Aklash, Underdark|
+|2023 0406|Percy Picklebackers|Final Dose, Skabs, Poisonous Reflection, Lindow Moss|
+|2023 0408|The Old Cold Store|Hang The Bastard, War All The Time, Rot In Hell, King of Pigs, Dead Sheeran, Feral State|
+|2023 0413|The Bodega|DVNE, Pijn|
+|2023 0418|Rescue Rooms|Shonen Knife, The Kut|
+|2023 0426|Percy Picklebackers|Kruelty, Gates to Hell, Splitknuckle, Skin of the Snake|
+|2023 0427|Rock City|Tokky Horror, Baby Tap, G4Y B0Y|
+|2023 0429|Golden Fleece|FUK, Blind Eye|
+|2023 0506|Chameleon|Basement Torture Killings, Exhumation, Pemphigoid, Kryptess|
+|2023 0511|Rough Trade|Valley Of The Sun, Alunah, Damn Craters|
+|2023 0512|Chameleon|Torpor, Gozer, Shrykull|
+|2023 0523|Chameleon|Victim Unit, Pothole, DALE, Rogue Limb|
+|2023 0527|Liquid Light|Slady|
+|2023 0529|Chameleon|Punter, Sex Germs, Pavel|
+|2023 0623|The Olde Salutation Inn|Spectral Wound, The Sun's Journey Through The Night|
+|2023 0629|Annie's Burger Shack, Derby|Goldie Lookin Chain|
+|2023 0708|Chameleon|Devastator, Insurgency, Grave Altar|
+|2023 0709|Chameleon|Fatalist, Shrykull, Rogue Limb|
+|2023 0715|Mangata 2023||
+|2023 0716|JT Soar|Powerplant (LDN), Sofftness, Krupps|
+|2023 0720|Chameleon|Bleakness (France), Lindow Moss, Coke Rodent|
+|2023 0722|Stuck on a name|Pisscharge (GER), Fixer, Lindow Moss, Avoid|
+|2023 0729|Chameleon|Matters, Blue Ruth|
+|2023 0805|Chameleon|Master's Call, Necro Ritual, Vandr, Hexenbrenner|
+|2023 0825|Chameleon|Bones of Minerva (Madrid), We come in Pieces, Lack the Low, Apidae|
+|2023 0902|Chameleon|Hellfekted, Outergods, Vulgar Dissection|
+|2023 0905|Chameleon|Civilian Thrower, Pothole, Avoid|
+|2023 0915|Chameleon|DeathCollector, All Consumed, Mordhau, Drēor|
+|2023 0920|Rescue Rooms|Nekrogoblikon, Æther Realm, Cage Fight|
+|2023 0923|Billy Bootleggers|Jodie Faster, Krupskaya, Without Love, FilthXCollins|
+|2023 0930|Billy Bootleggers|Katolik, Sex Germs, Lindow Moss, Pit Of Dicks|
+|2023 1007|The Olde Salutation Inn|PIST, Final Dose, Terminal Sun, Shadowvale|
+|2023 1013|The Boat Club|Flat Worms, Blind Eye, Island Apes|
+|2023 1014|Chameleon|Morag Tong, Everest Queen, Bodach|
+|2023 1015|Chameleon|Coke Rodent, Avoid, Grunk|
+|2023 1019|Rock City|Skindred, Black Gold, Cody Frost|
+|2023 1027|Rescue Rooms|Swear Blind, Def Goldblum, Killing Aura
+|2023 1028|The Olde Salutation Inn|Burial, Omega Throne, Sathamel, Vandr|
+|2023 1030|The Bodega|Employed to Serve, Pupil Slicer & Going Off|
+|2023 1102|Billy Bootleggers|Ninth Realm (US), Shrykull, Radioactive Rats|
+|2023 1103|Rock City|Alt Blk Era, PleasePrettyLea, Kelsey|
+|2023 1104|Rough Trade|Chaos Bleak, Rome Burns, Inkubus Sukkubus|
+|2023 1119|Rescue Rooms|Hot Milk, Witch Fever, Modern Error|
+|2023 1124|Stuck on a name|Witchrite, Skabs, Accelerated Mutation, Avoid|
+|2023 1125|Stuck on a name|Tides Of Sulfur, Space Witch, Dead In Latvia, Shrykull|
+
 ## 2022
 
 | Date | Venue | Bands |
@@ -82,7 +144,7 @@ A list of gigs I've attended (or the ones I have photos for anyway!). All venues
 
 | Date | Venue | Bands |
 |-----|------|------|
-|2017 1013|Stuck on a name|Gay Panic Defense|
-|2017 0908|Stuck on a name|Watchcries, Antre|
-|2017 0810|Stuck on a name|Antre|
 |2017 0513|Stuck on a name|Diagnosis Bastard|
+|2017 0810|Stuck on a name|Antre|
+|2017 0908|Stuck on a name|Watchcries, Antre|
+|2017 1013|Stuck on a name|Gay Panic Defense|
