@@ -1,6 +1,85 @@
 # Gig Archive
 
-A list of gigs I've attended (or the ones I have photos for anyway!). All venues in Nottingham unless noted otherwise. Bands in reverse order of appearance, headline acts first.
+A list of gigs I've attended (or the ones I have photos for anyway!).
+
+All venues in Nottingham unless noted otherwise.
+
+Bands in reverse order of appearance, headline acts first.
+
+## Photos
+
+Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/) page.
+
+## 2024
+
+| Date | Venue | Bands |
+|-----|------|------|
+|2024_0120|Rescue Rooms|(Cancer Bats as) Bat Sabbath, Margarita Witch Cult, Acid Throne|
+|2024_0210|Chameleon|Burial Røt & Haus Horo|
+|2024_0214|The Bodega|Dream Wife, Dream Nails, G4YB0Y|
+|2024_0218|The Angel|Dead Slow, Breathe/Rust, Subordinates, Avoid|
+|2024_0223|The Old Bus Depot|Bruise Control, Scene Killers, Breacher, Reduced|
+|2024_0224|Chameleon|Thee Alcoholics, Island Apes, Nothing Rests|
+|2024_0308|Chameleon|Nasty Fishmonger, The Red Stains, Kayleigh Beez|
+|2024_0315|Chameleon|Blasphemer, Malediction, Beyond Grace, Drēor|
+|2024_0316|Rough Trade|Conan, Wallowing, Swamp Coffin, Burial Røt|
+|2024_0322|Stuck on a name|Mercury, Generation, Reduced|
+|2024_0329|Chameleon|Ming City Rockers|
+|2024_0330|Rock City|Elvana, Scouge|
+|2024_0331|The Olde Salutation Inn|Mastiff, Yersin, Rogue Limb|
+|2024_0405|Stuck on a name|Ona Snop, Mister Lizard, Thumbsucker, Filthxcollins|
+|2024_0410|The Olde Salutation Inn|Iron Altar, Once Awake, Coke Rodent, Tumanduum|
+|2024_0412|Stuck on a name|Prey, Filthcollins, Thumbsucker, NU|
+|2024_0420|Percy Picklebackers|Geväl, King of Pigs, Helvis, The Domestics, FUK, The Stupids|
+|2024_0427|Stuck on a name|Bismuth, Sunrot, Bile Caster|
+|2024_0506|Stuck on a name|Moloch, Life Is Cheap, BlackCloudSummoner|
+|2024_0615|The Olde Salutation Inn|Heathen Deity, Sathamel, Ghül, Arrogant Destruktor|
+|2024_0616|The Olde Salutation Inn|Bad Egg (CA), Shreds, Leashed, Class Tourists|
+|2024_0620|The Angel|Bad Breeding, Invertebrates, Rat Cage, Lindow Moss|
+|2024_0628|The Angel|Krupskaya, Harrowed, TCCL, Avoid|
+|2024_0713|Nottingham|Mangata Festival 2024|
+|2024_0731|JT Soar|Delivery (Aus), Ye Woodbeast, Reduced|
+|2024_0811|Catton Hall|Bloodstock 2024|
+|2024_0818|Rockaway Park, Bristol|Unrest 2024|
+|2024_0818|The Olde Salutation Inn|Horror Vacui (ITA), Katolik, Headcut|
+|2024_0820|The Angel|Blind Monarch, Cestode (DE), Bile Caster, Shrykull|
+|2024_0821|The Olde Salutation Inn|Neid, Armored Virus, Kurt Strangle, Avoid|
+|2024_0824|JT Soar|Smote, Outlander, Lindow Moss|
+|2024_0825|Billy Bootleggers|Aggressive Perfector, Luger (CAN), Cerbere (FRA), Heavy Sentence|
+|2024_0825|The Tap and Tumbler|Party Cannon|
+|2024_0831|The Tap and Tumbler|L.A. Vyper- 80’s Hair Metal Tribute|
+|2024_0903|Billy Bootleggers|Bandit, Krupskaya, Pothole, Peacekeeper, FilthXCollins|
+|2024_0908|Rescue Rooms|Lebrock, Wolf Club|
+|2024_0911|The Olde Salutation Inn|Onanizer, Anti-System, Chou, FilthXcollins|
+|2024_0913|JT Soar|Bigfatbig, The Latchkey Kids, Push Rope (acoustic)|
+|2024_0918|The Angel|Ascended Dead (US), Slimelord, Priest Crippler, Nagasaki Birth Defect|
+|2024_0919|Billy Bootleggers|Reduced, Dearthworms, Krupps|
+|2024_0921|Leicester|Crowded Festival|
+|2024_0928|The Old Cold Store|GNARFEST 2.0|
+|2024_1010|The Bodega|Snayx + shortstraw|
+|2024_1011|JT Soar|White Town, MJ Hibbett|
+|2024_1014|Rough Trade|Crows, Hank|
+|2024_1020|Nottingham|Hockley Hustle|
+|2024_1026|Rough Trade|Revenge of Calculon, Emzae|
+|2024_1031|The Olde Salutation Inn|Abduction, Andracca, Shadowvale|
+|2024_1102|Manchester|Damnation 2024|
+|2024_1105|Rock City|Bob Vylan, Hyphen, Clt Drp|
+|2024_1106|Billy Bootleggers|Winterfylleth, Wormwitch & Bizarrekult|
+|2024_1107|The Angel|Cainhurst, Good Cop, Chewing Glass Collective, Rogue Limb|
+|2024_1109|Rock City|Therapy?, Deux Furieuses|
+|2024_1110|Billy Bootleggers|Morpholith (IS), Son of Boar, Shadowvale|
+|2024_1113|The Angel| Torpor, Host Body, Still, Shrykull, Petrichor|
+|2024_1114|The Old Bus Depot|Holocausts, Atomçk, Thumbsucker, Avoid|
+|2024_1121|Rescue Rooms|Wheel (Finland) & Monosphere|
+|2024_1122|JT Soar|Misfortune Cookie, The Atoms, Parallel States, Reduced|
+|2024_1123|The Old Bus Depot|Jøtnarr, Cady, Nu & Manic State|
+|2024_1123|Saltbox|Rock Against Racism|
+|2024_1130|Rock City|Pitchshifter, Black Gold, Swear Blind|
+|2024_1206|The Angel|Cadence Noir, Bat Flattery & Bone Saw Mcgraw|
+|2024_1210|Rescue Rooms|Eyehategod, Goatwhore|
+|2024_1215|Rescue Rooms|Bad Nerves, Ultra Q|
+|2024_1220|JT Soar|Dead Raze, Eryx London & Minatore|
+|2024_1221|The Bodega|Covers Party|
 
 ## 2023
 
