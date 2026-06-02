@@ -10,6 +10,79 @@ Bands in reverse order of appearance, headline acts first.
 
 Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/) page.
 
+## 2025
+
+| Date | Venue | Bands |
+|-----|------|------|
+|0103|The Old Salutation Inn|Pemphigoid, Dreor, Radioactive Rats|
+|0123|Billy Bootleggers|Mutagic Host, Ancient Rivalry, Torn Apart|
+|0124|The Angel|Plague Bomb, Avoid, Carnal Rot, Prison Witch|
+|0126|Beat The Streets 2025|
+|0130|The Bodega|Zetra, Moth Slut|
+|0131|The Bodega|Du Blonde, Bigfatbig|
+|0205|Rescue Rooms|Slomosa, Silkrats|
+|0212|Rescue Rooms|High-Vis, Narrow Head, Bloodworm|
+|0214|JT Soar|Sugarhorse, Still. Masquerader|
+|0220|The Angel|Beyond Grace, Turin, Rogue Limb, Dreor|
+|0221|Rescue Rooms|Heartworms, She's In Parties, Marvin's Revenge|
+|0225|Rock City|Biohazard, Life Of Agony, LYLVC|
+|0228|Billy Bootleggers|Split Dogs, Phat Problem, W.O.R.M., Roo Stafford & The Innits|
+|0301|The Angel|Still, Acceptance, Bile Caster, Shrykull, Gorgonchrist, Helve, Lindow Moss|
+|0302|Peggy's Skylight|Jazz Sabbath|
+|0304|The Bodega|Chalk, Yard|
+|0313|Billy Bootleggers|The Breathing Method, Ruled By Raptors, Iodine|
+|0315|Rough Trade|Hotel Lux, Duvet, Dura Mater, Sancho Panza|
+|0322|The Bodega|Shanghai Treason, Henshaw, Darwin's Rejects|
+|0329|The Bodega|Stuart Pearce, Sol Power, Sofftness|
+|0407|Rescue Rooms|Pigs, pigs, pigs, pigs, pigs, pigs, pigs, Irked|
+|0415|Billy Bootleggers|Vacuous, Cavalerie (France), Bile Caster, FilthxCollins|
+|0417|The Angel|Jodie Faster (FR), Short Days (FR), Prey, Anti-Everything (TT), Grail Guard, Thumbsucker|
+|0424|The Bodega|Benefits, Hang Linton|
+|0425|Billy Bootleggers|Blind Girls (Australia), Mind/Knot (Italy), Infall (Italy), Give Over, Blunt Scalpel|
+|0430|The Angel|S.G.A.T.V, Reduced, Sofftness, Headcut|
+|0501|The Bodega|Panic Shack, The Pill|
+|0502|The Old Salutation|Liight|
+|0503|Rescue Rooms|Dvne, As Living Arrows|
+|0505|Billy Bootleggers|Wormwitch, Impurist, Shadowvale|
+|0507|The Bodega|Death Valley Girls, Bella & The Bizarre|
+|0514|Billy Bootleggers|Swamp Coffin, Drone Queen, Satangelist|
+|0528|The Angel|Subhumans, Blind Eye, Sourflake, Hyperopics|
+|0620|Saltbox|Nic Cage Against The Machine, A Wedding Band|
+|0624|Rescue Rooms|Unto Others, Lowen|
+|0628|Rose of England|Tomar Control (Peru), King of Pigs, Leashed, Kurt Strangle|
+|0707|The Bodega|Battlesnake, DZ Deathrays, Mannequin Death Squad|
+|0712|Mangata 2025|
+|0718|The Angel|One Day in Fukushima (IT), Horsebastard, Peacekeeper, Petrichor|
+|0719|The Grove|Occulting Light, Liight, The Inevitable Unstoppable Death Band|
+|0726|Rescue Rooms|Light of Eternity, Dead Audio Saints|
+|0801|The Angel|Shrykull, Rogue Limb, Pit Of Dicks, Hyperopics|
+|0811|Rescue Rooms|King Buffalo, The Atomic Bitchwax|
+|0812|The Lughole, Sheffield|Skizophrenia (JP), Deletär (FR), Rat Cage, Tinnituz|
+|0814|The Old Salutation Inn|Varukers & Asfixia Social|
+|0816|The Grove|Round Eye, Dearthworms, Smear|
+|0825|The Angel|Bootlicker, Ancient Rage, Feral State, Armoured Virus, Roo Stafford|
+|0905|Mist Rolling Inn|City Mouse, Kicked In The Teeth, Scene Killers|
+|0907|Billy Bootleggers|Teenage Lobotomy (Ramones Covers - Brazil)|
+|0910|The Grove|Death Pill, Lindow Moss, Sourflake|
+|0911|Carousel|Pigeon Pit, Walter Mitty & His Makeshift Orchestra, Boom Boom Raccoon, Nasty Fishmonger, Cheap Dirty Horse|
+|0913|The Angel|The DSM IV, The Dirt, Liight|
+|0930|Rescue Rooms|Nekrogoblikon, Allegaeon, Party Cannon, Grief Ritual|
+|1004|The Angel|Giant Walker, Zopp, Confyde, Diaspar|
+|1010|Metronome|Goldie Lookin Chain,m Breichiau Hir|
+|1014|Rescue Rooms|Paradise Lost, Messa, High Parasite|
+|1018|Rescue Rooms|Panic Shack, Sandhouse|
+|1019|Hockley Hustle|
+|1023|The Old Cold Store|Witch Of The East, A Void, Bad Milk Blood Robot|
+|1030|Rock City|Gogol Bordello, Split Dogs, Puzzled Panther|
+|1104|Billy Bootleggers|Mephistofeles, Mind Burial, Tumanduumband, Bonestrider|
+|1107|The Bodega|Castle Rat, Margarita Witch Cult|
+|1112|Metronome|Nouvelle Vague|
+|1115|The King Billy|Duck Jumper, Flinger|
+|1115|The Angel|Froglord, Bonestrider & Psilonaut|
+|1121|Rough Trade|Revenge of Calculon, EMZAE|
+|1128|The Bodega|Black Water County, Nasty Fishmonger, Mummy's Custard|
+|1221|Rock City|Evil Scarecrow, Andrew O'Neill, Raised by Owls|
+
 ## 2024
 
 | Date | Venue | Bands |
