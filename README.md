@@ -58,7 +58,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |0801|The Angel|Shrykull, Rogue Limb, Pit Of Dicks, Hyperopics|
 |0811|Rescue Rooms|King Buffalo, The Atomic Bitchwax|
 |0812|The Lughole, Sheffield|Skizophrenia (JP), Deletär (FR), Rat Cage, Tinnituz|
-|0814|The Old Salutation Inn|Varukers & Asfixia Social|
+|0814|The Old Salutation Inn|Varukers, Asfixia Social|
 |0816|The Grove|Round Eye, Dearthworms, Smear|
 |0825|The Angel|Bootlicker, Ancient Rage, Feral State, Armoured Virus, Roo Stafford|
 |0905|Mist Rolling Inn|City Mouse, Kicked In The Teeth, Scene Killers|
@@ -78,7 +78,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |1107|The Bodega|Castle Rat, Margarita Witch Cult|
 |1112|Metronome|Nouvelle Vague|
 |1115|The King Billy|Duck Jumper, Flinger|
-|1115|The Angel|Froglord, Bonestrider & Psilonaut|
+|1115|The Angel|Froglord, Bonestrider, Psilonaut|
 |1121|Rough Trade|Revenge of Calculon, EMZAE|
 |1128|The Bodega|Black Water County, Nasty Fishmonger, Mummy's Custard|
 |1221|Rock City|Evil Scarecrow, Andrew O'Neill, Raised by Owls|
@@ -88,7 +88,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 | Date | Venue | Bands |
 |-----|------|------|
 |0120|Rescue Rooms|(Cancer Bats as) Bat Sabbath, Margarita Witch Cult, Acid Throne|
-|0210|Chameleon|Burial Røt & Haus Horo|
+|0210|Chameleon|Burial Røt, Haus Horo|
 |0214|The Bodega|Dream Wife, Dream Nails, G4YB0Y|
 |0218|The Angel|Dead Slow, Breathe/Rust, Subordinates, Avoid|
 |0223|The Old Bus Depot|Bruise Control, Scene Killers, Breacher, Reduced|
@@ -137,21 +137,21 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |1031|The Olde Salutation Inn|Abduction, Andracca, Shadowvale|
 |1102|Manchester|Damnation 2024|
 |1105|Rock City|Bob Vylan, Hyphen, Clt Drp|
-|1106|Billy Bootleggers|Winterfylleth, Wormwitch & Bizarrekult|
+|1106|Billy Bootleggers|Winterfylleth, Wormwitch, Bizarrekult|
 |1107|The Angel|Cainhurst, Good Cop, Chewing Glass Collective, Rogue Limb|
 |1109|Rock City|Therapy?, Deux Furieuses|
 |1110|Billy Bootleggers|Morpholith (IS), Son of Boar, Shadowvale|
 |1113|The Angel| Torpor, Host Body, Still, Shrykull, Petrichor|
 |1114|The Old Bus Depot|Holocausts, Atomçk, Thumbsucker, Avoid|
-|1121|Rescue Rooms|Wheel (Finland) & Monosphere|
+|1121|Rescue Rooms|Wheel (Finland), Monosphere|
 |1122|JT Soar|Misfortune Cookie, The Atoms, Parallel States, Reduced|
-|1123|The Old Bus Depot|Jøtnarr, Cady, Nu & Manic State|
+|1123|The Old Bus Depot|Jøtnarr, Cady, Nu, Manic State|
 |1123|Saltbox|Rock Against Racism|
 |1130|Rock City|Pitchshifter, Black Gold, Swear Blind|
-|1206|The Angel|Cadence Noir, Bat Flattery & Bone Saw Mcgraw|
+|1206|The Angel|Cadence Noir, Bat Flattery, Bone Saw Mcgraw|
 |1210|Rescue Rooms|Eyehategod, Goatwhore|
 |1215|Rescue Rooms|Bad Nerves, Ultra Q|
-|1220|JT Soar|Dead Raze, Eryx London & Minatore|
+|1220|JT Soar|Dead Raze, Eryx London, Minatore|
 |1221|The Bodega|Covers Party|
 
 ## 2023
@@ -161,8 +161,8 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |0114|Chameleon|Stray Bullet, Feral State, Geval, (The band formerly known as) Alkoholokaust|
 |0120|Stuck on a name|Scene Killers, Prey, Parallel States|
 |0128|Chameleon|Blasphemer, Pemphigoid, Vulgore, Foul Body Autopsy|
-|0129|Beat The Streets|Alt Blk Era, S.G's, Buenos Treehouse (performing Weezer's Pinkerton), Joey Collins & Ferocious Dog|
-|0130|Rock City|Undeath, Celestial Sanctuary & Burial Røt|
+|0129|Beat The Streets|Alt Blk Era, S.G's, Buenos Treehouse (performing Weezer's Pinkerton), Joey Collins,Ferocious Dog|
+|0130|Rock City|Undeath, Celestial Sanctuary, Burial Røt|
 |0211|Chameleon|Moloch, Burial Røt, Occulting Light|
 |0217|Stuck on a name|Horsebastard, Charred Atlas, Nothing Clean, Pothole|
 |0224|Percy Picklebackers|Hollow Bones, Knife Crime, Breacher, Skitz Wizards|
@@ -208,7 +208,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |1019|Rock City|Skindred, Black Gold, Cody Frost|
 |1027|Rescue Rooms|Swear Blind, Def Goldblum, Killing Aura
 |1028|The Olde Salutation Inn|Burial, Omega Throne, Sathamel, Vandr|
-|1030|The Bodega|Employed to Serve, Pupil Slicer & Going Off|
+|1030|The Bodega|Employed to Serve, Pupil Slicer, Going Off|
 |1102|Billy Bootleggers|Ninth Realm (US), Shrykull, Radioactive Rats|
 |1103|Rock City|Alt Blk Era, PleasePrettyLea, Kelsey|
 |1104|Rough Trade|Chaos Bleak, Rome Burns, Inkubus Sukkubus|
@@ -251,7 +251,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |0803|Chameleon|Mannequin Death Squad (AUS), Fan Rights, Peach Head|
 |0809|Chameleon|Dim Bulbs, Every Face Becomes A Skull, Flash Daddy|
 |0818|Rescue Rooms|Psychedlic Porn Crumpets|
-|0824|Chameleon|Turtles Junior (Indonesia), Truth Equals Treason, Gorgon Ramsey (Now Rogue Limb) & Filth x Collins|
+|0824|Chameleon|Turtles Junior (Indonesia), Truth Equals Treason, Gorgon Ramsey (Now Rogue Limb), Filth x Collins|
 |0826|Bodega|GNOD, Bloody Head, Lindow Moss|
 |0828|Chameleon|Casket Feeder, Lost brethren, Strangle wire, Mordhau|
 |0829|Rescue Rooms|The Ocean, LLNN, Playgrounded|
@@ -300,3 +300,14 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |0810|Stuck on a name|Antre|
 |0908|Stuck on a name|Watchcries, Antre|
 |1013|Stuck on a name|Gay Panic Defense|
+
+## 2006
+
+| Date | Venue | Bands |
+|-----|------|------|
+|0225|Certificate 18, York|Red Stars Parade, Humanfly, Agent Of The Morai, Stabbed In Autumn, Electric Mud Generator, Immune, Flatlands, Feeble, Bumsnogger|
+|0811|The Old Angel|Palehorse, Red Stars Parade, IX, Bumsnogger|
+|1027|The Cricketers Arms, Sheffield|Bumsnogger, Black Eye Riot|
+|1028|The Old Angel|Everything Went Faster / Everything Went Heavier weekender|
+|1125|The Old Angel|Mistress, Narcosis, Bumsnogger|
+|1223|Rock City|Bumsnogger, Mel Gimpsuit, The Tommys|
