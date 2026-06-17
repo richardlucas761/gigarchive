@@ -310,4 +310,25 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |1027|The Cricketers Arms, Sheffield|Bumsnogger, Black Eye Riot|
 |1028|The Old Angel|Everything Went Faster / Everything Went Heavier weekender|
 |1125|The Old Angel|Mistress, Narcosis, Bumsnogger|
-|1223|Rock City|Bumsnogger, Mel Gimpsuit, The Tommys|
+|1223|Rock City|Bumsnogger (final show), Mel Gimpsuit, The Tommys|
+
+## 2005
+
+| Date | Venue | Bands |
+|-----|------|------|
+|0129|The Swan, London|Taint, Among the Missing, MFKZT, End of Level Boss, Inner Rage, Koresh, Bumsnogger|
+|0130|Rock City|Bumsnogger - A Drop in the Ocean 2005, Tsunami benefit concert|
+|0204|The Old Angel|Mistress, Three Stages of Pain, The Miramar Disaster, Bumsnogger|
+|0225|The Fenton, Leeds|Red Stars Parade, Happy Happy Joy Joy, Chickenhawk, Bumsnogger|
+|0404|Rock City|High on Fire, Calisto, Winnebago Deal, Bumsnogger|
+|0406|The Old Angel|Taint, Art of Burning Water, Bumsnogger|
+|0511|The Grapes, Sheffield|Dirtyblood, Ninio, Bumsnogger|
+|0714|Archway Tavern, London|Among the Missing, Dollarhyde, Deathskulls, Bumsnogger|
+|0715|King Alfred, Southampton|Among the Missing, Seven Arrows Through My Bastard Heart, Bumsnogger|
+|0716|Parkstone Central, Bournemouth|Among the Missing, Sunshine Republic, Bumsnogger|
+|0717|Junction, Bristol|Among the Missing, Mfkzt, Bumsnogger|
+|0722|The Old Angel|Among the Missing, Sanzen, Dead On A Rival, Bumsnogger|
+|0823|Corporation, Sheffield|Debris Inc, Ramesses, Deaddeaddead, Bumsnogger|
+|1029|The Old Angel|Mistress, Taint, Black Eye Riot, Red Stars Parade, Among the Missing, Bumsnogger|
+|1210|Purple Turtle, London|Among the Missing, Bumsnogger|
+|1211|Spencer Club, Coventry|Organ, Godsize, Bumsnogger|
