@@ -332,3 +332,27 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |1029|The Old Angel|Mistress, Taint, Black Eye Riot, Red Stars Parade, Among the Missing, Bumsnogger|
 |1210|Purple Turtle, London|Among the Missing, Bumsnogger|
 |1211|Spencer Club, Coventry|Organ, Godsize, Bumsnogger|
+
+## 2004
+
+| Date | Venue | Bands |
+|-----|------|------|
+|0126|Charlotte, Leicester|Mistress, Eden Maine, Narcosis, Kervorkian Solution, Army Of Flying Robots, Vehemance, Sutta Kane, Bumsnogger|
+|0321|Indian Queen, Boston|Messiah, S.m.i.l.e, V-8, Bumsnogger|
+|0326|The Old Angel|Decapitated, Labrat, Incision, Bumsnogger|
+|0329|Indian Queen, Boston|The Devils, Dead Memento, The Jipwits, Bumsnogger|
+|0405|Matrix, Grimsby|Send More Paramedics, My War, Bumsnogger|
+|0425|The Old Angel|My War, Godsize, Cruel Humanity,Throne, Bumsnogger|
+|0509|The Old Angel|Steel Rules Die, Cape Canaveral, Bumsnogger|
+|0518|Star And Garter, Manchester|Palehorse, Ripley, Bumsnogger|
+|0607|The Old Angel|Eulisis, Excelsum Superbum, S.m.i.l.e., Helvis,Beecher, Bumsnogger|
+|0726|Rock City|Eden Maine, Bumsnogger|
+|0830|Bloodstock 03|
+|0918|The Garage, London|Mistress, Palehorse, Crawl Back In, Bumsnogger|
+|0919|Bunkers Hill|Mistress, Palehorse, Crawl Back In, Freebase, Defenestration, Bumsnogger|
+|1010|Packhorse, Leeds|Zillah, S.m.i.l.e, Once I Tried, Bumsnogger|
+|1011|Rock City|3 Inches of Blood, Kinesis, Beecher, Bumsnogger|
+|1018|Junktion7|Return to the Sabbat, Torsohorse, Bumsnogger|
+|1129|The Grapes, Sheffield|Throne, First Attrition, Godsize, Old Basford, Excelsum Superbum, Bumsnogger|
+|1210|Rock City|Second Nature, Pyretta, Bumsnogger|
+|1213|The Empress, Bradford|Cancer, The Enchanted, Conquest Of Steel, Cruel Humanity, Vae Solis, Nightmare Visions, Khang, Acolytes Ruin, Bumsnogger|
