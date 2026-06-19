@@ -337,6 +337,24 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 
 | Date | Venue | Bands |
 |-----|------|------|
+|0124|Indian Queen, Boston|Dead Sun Rising, Face the Enemy, DRail, Bumsnogger|
+|0206|Rescue Rooms|Zombina & The Skeletones, Stig, Joey Chickenskin, Bumsnogger|
+|0220|Bivouac, Lincoln|MFZKT, Once I Tried, Throne, The Final Sigh, Bodies in the Basement, Bumsnogger|
+|0221|The Old Angel|Mistress, S.m.i.l.e, Red Stars Parade, Throne, Bumsnogger|
+|0228|Westport Bar, Dundee|Bonesaw, Red Stars Parade, Ghosts of the american dead, Bumsnogger|
+|0229|Dr Drakes, Aberdeen|Bonesaw, Errata, Red Stars Parade, Vomitus, Bumsnogger|
+|0301|Packhorse, Leeds|Red Stars Parade, Humanfly, Bumsnogger|
+|0306|Rock City|Vera Cruz, Laruso, Bumsnogger|
+|0424|The Old Angel|Orange Goblin, Sloth, Bumsnogger|
+|0430|The Garage, London|Emotive Exposed, We will be pilots, Bumsnogger|
+|0523|Rock City|My War, Helvis, Army Of Flying Robots, Shooting Victor Francis, Sanzen, The Red Shift, Without Eyes, Blood Orange, Eclipse, Bumsnogger|
+|0529|The Old Angel|Charger, Narcosis, Red Stars Parade, Blood Island Raiders, Patient Zero, The Nothing, Hey Collosus, Sika Redem, Legion of Doom, Bumsnogger|
+|1203|The Old Angel|The End, Transmission Zero, The Legion of Doom, Bumsnogger|
+
+## 2003
+
+| Date | Venue | Bands |
+|-----|------|------|
 |0126|Charlotte, Leicester|Mistress, Eden Maine, Narcosis, Kervorkian Solution, Army Of Flying Robots, Vehemance, Sutta Kane, Bumsnogger|
 |0321|Indian Queen, Boston|Messiah, S.m.i.l.e, V-8, Bumsnogger|
 |0326|The Old Angel|Decapitated, Labrat, Incision, Bumsnogger|
