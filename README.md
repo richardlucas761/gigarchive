@@ -225,7 +225,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |0319|?|Discharge|
 |0407|Duffys, Leicester|Nothing Clean|
 |0416|The Olde Salutation Inn|Pist, Antre|
-|0417|Stuck on a name|Vacous Nil Burial Rot|
+|0417|Stuck on a name|Vacous Nil, Burial Rot|
 |0426|Rough Trade|Bongzilla|
 |0429|?|Instant Ruin|
 |0502|?|Kristin Hersh|
