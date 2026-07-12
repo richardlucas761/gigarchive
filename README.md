@@ -374,3 +374,28 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |1129|The Grapes, Sheffield|Throne, First Attrition, Godsize, Old Basford, Excelsum Superbum, Bumsnogger|
 |1210|Rock City|Second Nature, Pyretta, Bumsnogger|
 |1213|The Empress, Bradford|Cancer, The Enchanted, Conquest Of Steel, Cruel Humanity, Vae Solis, Nightmare Visions, Khang, Acolytes Ruin, Bumsnogger|
+
+## 2002
+
+| Date | Venue | Bands |
+|-----|------|------|
+|0413|The Old Angel|Dead Inside, S.m.i.l.e, Bumsnogger|
+|0427|The Old Angel|Nine, Winter In June, Steel Rules Die, Bumsnogger|
+|0510|The Old Angel|S.m.i.l.e, Saltburn, Asphyxiate, Bumsnogger|
+|0519|Talbot Hotel, Stoke-on-Trent|Taint, Eden Maine, Sutta Kane, Bumsnogger|
+|0605|Old Vic|S.m.i.l.e., Kill4Suzy, Bumsnogger|
+|0624|Obsessions|S.m.i.l.e., Bumsnogger|
+|0625|Raffles Wine Bar, Derby|Sutta Kane, King Of The Road, Bumsnogger|
+|0705|Lamplighters, Leicester|Eden Maine, Steel Rules Die, xSworn Inx, Bumsnogger|
+|0709|Raffles Wine Bar, Derby|The Osterman Weekend, The Removals, Bumsnogger|
+|0711|Victoria Inn, Derby|Sutta Kane, Reasons Known, Fallen To, Bumsnogger|
+|0806|Rock City|S.m.i.l.e., Bumsnogger|
+|0810|The Old Angel|Varukers, Blackrock, My War, Bumsnogger|
+|0815|Victoria Inn, Derby|(16), S.m.i.l.e., Bumsnogger|
+|0902|Ponce in the Park, Derby|
+|0924|Rock City|Beecher, Bumsnogger|
+|1031|Gusto's, Newark|Psycasz-Fear, Inert, S.m.i.l.e, Liquid Angels, Bumsnogger|
+|1103|The Old Angel|John Holmes, Helvis, Inert, Bumsnogger (Radio One Live, Nottingham)|
+|1125|The Old Angel|Cathedral, Electric Wizard, My War, Bumsnogger|
+|1216|Victoria Inn, Derby|Beecher, Send More Paramedics, Guillame Seam, D-Rail, Bumsnogger|
+|1221|The Old Angel|John Holmes, Taint, Black Eye Riot, Khang, My War, Bumsnogger|
