@@ -10,6 +10,49 @@ Bands in reverse order of appearance, headline acts first.
 
 Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/) page.
 
+## 2026
+
+| Date | Venue | Bands |
+|-----|------|------|
+|0109|The Mist Rolling Inn|Tiny Forehead, Chakra Shakers, Interplanetary Trash Talk, Diaspar|
+|0117|Billy Bootleggers|City Flowers, Baddy Issues, Stained Glass, Cherry Stone|
+|0125|Beat The Streets 2026|
+|0127|The Angel|Labyrinthine Oceans, Diaspar, Empressed Reversed|
+|0131|The Mist Rolling Inn|Liight, Liminal Project|
+|0211|Rescue Rooms|HotWax, Jeanie & The White Boys, Baddy Issues|
+|0212|Rescue Rooms|Coach Party, Lizzie Esau, Marvin's Revenge|
+|0219|Rough Trade|Sunna Margrét, Revenge of Calculon|
+|0227|The Angel|Night Thieves, Margaret's Milk Machine, Jane Doe|
+|0312|The Bodega|Witch Fever, Cowboy Hunters, City Dog|
+|0319|The Angel|Oryx (US), Wren, Lindow Moss, Tomb Slab|
+|0327|The Old Bus Depot|Blind Eye, Irked, Mother Nature, Sofftness|
+|0328|The Old Salutation Inn|Mörti Viventi, Incinery, Leader, Tyrant Death|
+|0401|The Bodega|Split Dogs, Hex Poseur, Baddy Issues|
+|0402|The Angel|Habak (MX), Dry Socket (US), Flower (US), Deviated Instinct, Skreg|
+|0423|Rescue Rooms|Ist Ist, The Youth Play|
+|0424|Bodega|Marvin's Revenge, Normal Village, Sunk|
+|0512|JT Soar|Artificial Go, No Peeling, Burly Nagasaki|
+|0513|Billy Bootleggers|Sylvie's Head, Deadwood Superstar, Yoo Doo Right|
+|0515|The Grove|George Gadd & The Aftermath, Nasty Fishmonger, Ricky Kotecha|
+|0519|Billy Bootleggers|Cult of Occult, Bile Caster, Phantom Droid|
+|0522|Rescue Rooms|We Lost The Sea, Overhead, The Albatross, Dimscua|
+|0615|The Mist Rolling Inn|Ruena, Broken Narrative, Cherry Stone, Confyde (Acoustic)|
+|0618|The Palais|All Them Witches, Steak|
+|0620|The Old Salutation Inn|Master Charger, Borehead, Tellemahookah|
+|0622|The Mist Rolling Inn|Drivelheads, Bullshit Boy, Plutonium Underdogs|
+|0702|Billy Bootleggers|Skorts, Silkrats|
+|0703|Liquid Light|Million Moons, Kusanagi, Time in Antarctica|
+|0703|Tap'n'Tumbler|Stresssysteem (NL)|
+|0712|Rock City|Bat Sabbath (Cancer Bats), Froglord, Black Mastiff|
+|0718|The Old Salutation Inn|Basement Torture Killings, Austerymn, Trench Foot, Liquified|
+|0730|Corporation, Sheffield|Arnocorps, Mortivius|
+|0731|The Angel|Sex Dwarf (SE), Gets Worse, Inside Job (NL), Trading Hands, Face-Off|
+|0801|The Angel|Misgendered, [Brick], Leashed, Pothole|
+|0807|Tap'n'Tumbler|Hot Load, Extra Burner|
+|0808|Tap'n'Tumbler|Career Suicide, Hot Load, Sex Germs, Life is cheap|
+|0823|Arctangent 2026|
+|0828|Tram Line Spot skate park|77 Tiger|
+
 ## 2025
 
 | Date | Venue | Bands |
