@@ -54,6 +54,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |0828|Tram Line Spot skate park|77 Tiger|
 |0904|Billy Bootleggers|Slady, Ziggy Pop|
 |0905|Mangata 2026|
+|0909|Rescue Rooms|Allegaeon, Gorod, Defects|
 
 ## 2025
 
