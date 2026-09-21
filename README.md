@@ -55,6 +55,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |0904|Billy Bootleggers|Slady, Ziggy Pop|
 |0905|Mangata 2026|
 |0909|Rescue Rooms|Allegaeon, Gorod, Defects|
+|0920|The Grove|Nasty Fishmonger, Andrea Kenny, Dan Ottewell|
 
 ## 2025
 
