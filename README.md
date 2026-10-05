@@ -57,6 +57,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |0909|Rescue Rooms|Allegaeon, Gorod, Defects|
 |0920|The Grove|Nasty Fishmonger, Andrea Kenny, Dan Ottewell|
 |0926|Liquid Light|Diaspar, Time in Antartica|
+|1004|Peggy's Skylight|Jazz Sabbath|
 
 ## 2025
 
