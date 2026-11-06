@@ -59,6 +59,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |0926|Liquid Light|Diaspar, Time in Antartica|
 |1004|Peggy's Skylight|Jazz Sabbath|
 |1015|The Old Salutation Inn|Methedrine, King of Pigs, Fortyeighters, Helix|
+|1105|Rescue Rooms|Messa, The Night Eternal|
 
 ## 2025
 
