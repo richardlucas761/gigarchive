@@ -60,6 +60,7 @@ Some gig photos are on my [Flickr](https://www.flickr.com/photos/196406726@N06/)
 |1004|Peggy's Skylight|Jazz Sabbath|
 |1015|The Old Salutation Inn|Methedrine, King of Pigs, Fortyeighters, Helix|
 |1105|Rescue Rooms|Messa, The Night Eternal|
+|1106|Liquid Light|The Moth Gatherer, The Grey, Pleb, Shrykull|
 
 ## 2025
 
